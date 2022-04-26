@@ -1,0 +1,6 @@
+function proportions(numberOne, numberTwo){
+   alert(numberTwo / 100 * numberOne)
+}
+let numberOne = prompt("Делимое")
+let numberTwo = prompt("Делитель")
+proportions(numberOne, numberTwo)
